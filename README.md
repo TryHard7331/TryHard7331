@@ -22,38 +22,31 @@ IT course, and it was one of my best decision so far i guess. I love my job righ
 
 
     Topics that we covered in the IT-Course were:
--Hardware (Components of the Computer, assembly, 1st Lvl Support scenarios)
--Software (Installing some Software, Worked with Office Suit, had to answer some 1st Lvl Support scenarios )
--Networking (Difference btw. Hub/SW/Router & how they work, TCP/IP & OSI Model, DNS, DHCP, Cisco Packet Tracer projects)
--Windows Server ( DC, AD )
--Windows Client
--Linux Client (Update && Upgrade, Navigating through system, Creating/editing files/dir, MAN pages, just some basic tasks nothing special)
--SQL (MYSQL & PostgreeSQL CRUID & JOIN commands
--ITIL 
--Littlebit programming with a Raspberry Pi (Project) (I readed some pages of automatetheboringstuff to get a tip of understanding programming, 
- and bought an raspberry pi zero > found a repository in here to make this work as an "badusb".
+    -Hardware (Components of the Computer, assembly, 1st Lvl Support scenarios)
+    -Software (Installing some Software, Worked with Office Suit, had to answer some 1st Lvl Support scenarios )
+    -Networking (Difference btw. Hub/SW/Router & how they work, TCP/IP & OSI Model, DNS, DHCP, Cisco Packet Tracer projects)
+    -Windows Server ( DC, AD )
+    -Windows Client
+    -Linux Client (Update && Upgrade, Navigating through system, Creating/editing files/dir, MAN pages, just some basic tasks nothing special)
+    -SQL (MYSQL & PostgreeSQL CRUID & JOIN commands
+    -ITIL 
+    -Littlebit programming with a Raspberry Pi (Project) (I readed some pages of automatetheboringstuff to get a tip of understanding programming, 
+     and bought an raspberry pi zero > found a repository in here to make this work as an "badusb".
 
 In all these above listed topics we could just cover the Fundamentals I guess, so no deeper knowledge because of lack of time.
 
     What I did in my free time to reach my goals:
-I made an TryHackMe premium account and did there some courses also.
-     
-      THM Learning paths I absolved:
--
--
+I made an TryHackMe premium account and did there some courses ... comming soon
 
-PicoCTF account and played some beginner level CTFs
--
--
--
+Created a PicoCTF account and played some beginner level CTFs.. comming soon
 
-Also I bought a bunch of Books
--Linux basics for Hackers (OTW)
--How Linux works (Brian Ward)
--The Linux command line (William Shotts)
--Bug-Bounty Bootcamp (Vickie Li)
--Gray-Hat Hacking (Harper, et al.)
-But i have to say until now I didnt finished reading anyone of these books.
+    Also I bought a bunch of Books.
+    -Linux basics for Hackers (OTW)
+    -How Linux works (Brian Ward)
+    -The Linux command line (William Shotts)
+    -Bug-Bounty Bootcamp (Vickie Li)
+    -Gray-Hat Hacking (Harper, et al.)
+    But i have to say until now I didnt finished reading anyone of these books.
 
 I know there are definitely a lot of grammatical errors here, (sorry for that) but English is not my 1st Language and
 I'll try to improve myself in the upcomming time.
